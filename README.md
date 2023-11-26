@@ -1,12 +1,17 @@
 # Calculadora
 
-Calculadora base, simples e prática, inicialização do "form", ou Interface, no Java.
+Calculadora base, simples e prática, iniciação do "form", ou Interface, no Java.
 
 ![Calculadora](.github/preview.png)
+
+## :thought_balloon: Visão Geral
+
+Projeto simples utilizando Java para realizar as quatro operações com apenas duas grandezas.
 
 ## :rocket: Tecnologias Utilizadas
 
 - Java
+- Git e Github
 
 ## :speech_balloon: Instruções de Instalação
 
@@ -21,18 +26,9 @@ Após a instalação e configuração, vá em `Open Project` dentro do NetBeans 
 
 ├── Source Packages
 
-├── <default package>
+├── default package
 
 └── CalculadoraForm.java
-
-## :memo: Exemplos de Código
-
-private void ButtonSomarActionPerformed(java.awt.event.ActionEvent evt) {                                            
-    double n1=Double.parseDouble(this.TextNumber1.getText());
-    double n2=Double.parseDouble(this.TextNumber2.getText());
-    double somar=n1+n2;
-    this.Resultado.setText(""+somar);
-}     
 
 ## :love_letter: Contribuição
 
