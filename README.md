@@ -1,39 +1,37 @@
-# Calculadora
+# Calculator
 
-Calculadora base, simples e prática, iniciação do "form", ou Interface, no Java.
+## Overview
+This project serves as a basic introduction to "form," utilizing Java Interfaces.
 
-![Calculadora](.github/preview.png)
+### Description
+A simple Java-based calculator designed to perform the four fundamental arithmetic operations using only two operands.
 
-## :thought_balloon: Visão Geral
+## How to View
+To use this calculator, ensure you have `Apache NetBeans` and `Java` installed on your system. Once installed, download the project files.
 
-Projeto simples utilizando Java para realizar as quatro operações com apenas duas grandezas.
+### Setup Process
+1. Install `Apache NetBeans` and `Java`.
+2. Download the project files.
+3. Open the project within NetBeans by selecting `Open Project`.
 
-## :rocket: Tecnologias Utilizadas
+## Technologies Used
+- `Java`
+- `Git and Github`
 
-- Java
-- Git e Github
+### File Structure
+- CalculadoraBase_UI
+- Source Packages
+- default package
+- CalculadoraForm.java
 
-## :speech_balloon: Instruções de Instalação
+## Usage
+After opening the project in NetBeans, access the `CalculadoraForm.java` file to begin utilizing the calculator.
 
-Instale o `Apache NetBeans` e o `Java` em seu computador. Com isso, faça o download do arquivo.
+## License
+This project is licensed under the MIT License.
 
-## :grey_question: Como Usar
+## Contributions
+Contributions are always welcome! Feel free to submit improvements or corrections.
 
-Após a instalação e configuração, vá em `Open Project` dentro do NetBeans e abra o aequivo instalado.
-
-## :grey_exclamation: Estrutura de Arquivos
-├── CalculadoraBase_UI
-
-├── Source Packages
-
-├── default package
-
-└── CalculadoraForm.java
-
-## :love_letter: Contribuição
-
-Contribuições são sempre bem-vindas!
-
-## :v: Créditos
-
-Feito com muito ♥ by Julia Faria :wave:
+## Credits
+Developed with passion by Julia Faria, with support from Rocketseat.
