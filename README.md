@@ -34,4 +34,4 @@ This project is licensed under the MIT License.
 Contributions are always welcome! Feel free to submit improvements or corrections.
 
 ## Credits
-Developed with passion by Julia Faria, with support from Rocketseat.
+Developed with passion by Julia Faria.
